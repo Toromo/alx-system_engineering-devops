@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}
+print "%2f" $NUM | sort
